@@ -1,0 +1,21 @@
+{
+  "name": "ne-boilerplate",
+  "version": "(0.0.1)",
+  "homepage": "https://github.com/nickescallon/ne-boilerplate",
+  "authors": [
+    "Nick Escallon <nickescallon@gmail.com>"
+  ],
+  "description": "boilerplate",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest"
+  }
+}
